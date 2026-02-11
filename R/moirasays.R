@@ -6,11 +6,6 @@
 #'
 #' @return A randomly selected character vector.
 #' @export
-#'
-#' @examples
-#' my_texts <- c("Hello", "World", "R", "Package")
-#' select_random(my_texts, n = 2)
-#' 
 moira_text = c("Now is not the time for PETTIFOGGING!",
           "The world is falling apart around us, and I am dying inside.",
           "Stop acting like a DISGRUNTLED PELICAN.",
@@ -121,11 +116,6 @@ moira_text = c("Now is not the time for PETTIFOGGING!",
 #'
 #' @return A randomly selected character vector.
 #' @export
-#'
-#' @examples
-#' my_texts <- c("Hello", "World", "R", "Package")
-#' select_random(my_texts, n = 2)
-#' 
 moirasays <- function(text_list = moira_text, n = 1, replace = FALSE) {
   if (!is.character(text_list)) {
     stop("text_list must be a character vector")

@@ -4,7 +4,7 @@
 \alias{moirasays}
 \title{Select Moira}
 \usage{
-moirasays(text_list = moira, n = 1, replace = FALSE)
+moirasays(text_list = moira_text, n = 1, replace = FALSE)
 }
 \arguments{
 \item{text_list}{A character vector of text items.}
@@ -18,9 +18,4 @@ A randomly selected character vector.
 }
 \description{
 Select Moira
-}
-\examples{
-my_texts <- c("Hello", "World", "R", "Package")
-select_random(my_texts, n = 2)
-
 }
