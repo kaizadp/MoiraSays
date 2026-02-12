@@ -44,4 +44,11 @@ Notable gems include:
 
 ---
 
+## see also
+
+[Moira Rose quotation generator (Shiny App)](https://kaizadp.shinyapps.io/moirarose/)
+
+
+---
+
 Last updated: February 2026
