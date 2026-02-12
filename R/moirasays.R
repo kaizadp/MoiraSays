@@ -6,7 +6,7 @@
 #'
 #' @return A randomly selected character vector.
 #' @export
-moirasays <- function(text_list = text_list, n = 1, replace = FALSE) {
+moirasays <- function(text_list = moira_list, n = 1, replace = FALSE) {
   if (!is.character(text_list)) {
     stop("text_list must be a character vector")
   }

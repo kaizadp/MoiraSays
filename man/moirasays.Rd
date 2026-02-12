@@ -4,7 +4,7 @@
 \alias{moirasays}
 \title{Select Moira Phrases}
 \usage{
-moirasays(text_list = text_list, n = 1, replace = FALSE)
+moirasays(text_list = moira_list, n = 1, replace = FALSE)
 }
 \arguments{
 \item{text_list}{A character vector of text items, included with this package}
