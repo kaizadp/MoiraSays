@@ -2,13 +2,37 @@
 
 My dear Bébé - at last, a digital reliquary devoted entirely to my most luminescent utterances.
 
-This R package delivers a cascade of Moira Rose quotations at the merest whim, perfecr for elevating your pedestrian code into something positively operatic.
+This R package delivers a cascade of Moira Rose quotations at the merest whim, perfect for elevating your pedestrian code into something positively operatic.
 
 Do sprinkle these verbal éclats throughout your projects - after all, why should your analysis not shimmer with a touch of unbridled grandeur?
 
 ---
 
+## installation
+
 ```
 install.packages("devtools") 
 devtools::install_github("kaizadp/MoiraSays") 
 ```
+
+---
+
+## using this package
+
+This is a very simple package with only one function: `moirasays()`. 
+
+Simply run this in your console to get a random Moira quote!
+
+```
+moirasays()
+```
+
+Notable gems include:
+
+"David, what does burning smell like?"
+
+"I used to share your felicific optimism, dear."
+
+"So now you're taking bébé to the spa."
+
+... and many more!
