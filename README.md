@@ -6,6 +6,10 @@ This R package delivers a cascade of Moira Rose quotations at the merest whim, p
 
 Do sprinkle these verbal éclats throughout your projects - after all, why should your analysis not shimmer with a touch of unbridled grandeur?
 
+<br>
+
+<br>
+
 ---
 
 ## installation
@@ -29,10 +33,15 @@ moirasays()
 
 Notable gems include:
 
-"David, what does burning smell like?"
+    "David, what does burning smell like?"
 
-"I used to share your felicific optimism, dear."
+    "I used to share your felicific optimism, dear."
 
-"So now you're taking bébé to the spa."
+    "So now you're taking bébé to the spa."
 
 ... and many more!
+
+
+---
+
+Last updated: February 2026
