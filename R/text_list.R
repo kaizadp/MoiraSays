@@ -105,6 +105,6 @@ text_list = c("Now is not the time for pettifogging!",
               "The cheering and accolades are drowning out your gentle voice.",
               "The last time I felt this emotionally encumbered, I was playing Lady Macbeth on a Crystal Skies cruise ship during Shakespeare at Sea Week.",
               "Never let the bastards get you down!",
-              "It’s probably nothing but I think I’ve killed a man.",
+              "It’s probably nothing but I think I’ve killed a man."
               
 )

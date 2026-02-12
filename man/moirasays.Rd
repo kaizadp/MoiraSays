@@ -2,12 +2,12 @@
 % Please edit documentation in R/moirasays.R
 \name{moirasays}
 \alias{moirasays}
-\title{Select Moira}
+\title{Select Moira Phrases}
 \usage{
-moirasays(text_list = moira_text, n = 1, replace = FALSE)
+moirasays(text_list = text_list, n = 1, replace = FALSE)
 }
 \arguments{
-\item{text_list}{A character vector of text items.}
+\item{text_list}{A character vector of text items, included with this package}
 
 \item{n}{Number of items to select.}
 
@@ -17,5 +17,5 @@ moirasays(text_list = moira_text, n = 1, replace = FALSE)
 A randomly selected character vector.
 }
 \description{
-Select Moira
+Select Moira Phrases
 }

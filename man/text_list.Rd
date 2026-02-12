@@ -5,7 +5,7 @@
 \alias{text_list}
 \title{Text List}
 \format{
-An object of class \code{character} of length 101.
+An object of class \code{character} of length 105.
 }
 \usage{
 text_list
